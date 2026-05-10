@@ -9,7 +9,7 @@
 
 ## 📖 À propos
 
-**ChatStream** est une application de chat en temps réel complète développée avec **Node.js**, **Express** et **Socket.IO**. Elle permet aux utilisateurs de communiquer instantanément dans différents salons de discussion, d'envoyer des messages privés et de voir en temps réel les utilisateurs connectés.
+**Chat Socket.IO** est une application de chat en temps réel complète développée avec **Node.js**, **Express** et **Socket.IO**. Elle permet aux utilisateurs de communiquer instantanément dans différents salons de discussion, d'envoyer des messages privés et de voir en temps réel les utilisateurs connectés.
 
 ### ✨ Fonctionnalités
 
