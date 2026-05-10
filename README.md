@@ -1,6 +1,6 @@
 
 
-# 💬 ChatStream - Application de Chat en Temps Réel
+# 💬 Chat Socket.IO - Application de Chat en Temps Réel
 
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green)
 ![Socket.io](https://img.shields.io/badge/Socket.io-4.x-black)
