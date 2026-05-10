@@ -69,7 +69,7 @@ chatstream/
 ├── package.json           # Dépendances et scripts
 └── README.md              # Documentation
 
-
+```
 
 ## 🎥 Démo du Projet
 
